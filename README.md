@@ -13,7 +13,7 @@ Using any 3 or more of the concept coverd in the intro with your own HTML and CS
 
 - create a section that has at least 2 Hover effects.
 
-- Create a heater and footer
+- Create a header and footer
 
 ```html
 <section class=""> </section>
