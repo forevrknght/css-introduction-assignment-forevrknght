@@ -4,18 +4,20 @@ Using any 3 or more of the concept coverd in the intro with your own HTML and CS
 
 **To-do**
 
-- Create a css and html file and add in 4 images 
-- two types of fonts for h3 and h4 
-- Change the color of all <p> and <h1> elements, to "red". Group the selectors to minimize code.
-it sould have  4 images
+- Create a css and html file and add in 4 images  
+
+- Create responsive column cards with CSS.
 
 
-side by side 
+-CSS Box Shadow -Create a sample page which displays a box-shadow.
 
+-create a section that has at least 2 Hover effects.
 
-
-
-
+```html
+<section class=""> </section>
+```
 
  ⚠️ and commit your work using git 
+# resources
 https://www.w3schools.com/howto/howto_js_topnav.asp
+https://www.w3schools.com/howto/howto_css_column_cards.asp
